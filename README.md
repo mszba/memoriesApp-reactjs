@@ -1,1 +1,1 @@
-memoryApp made with MERN stack
+memoriesApp made with MERN stack
